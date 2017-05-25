@@ -1,0 +1,21 @@
+# Site settings
+title: Old Dog New Tricks Mainly Code 
+header-img: img/home-bg.png
+email: eric.strickler@gmail.com
+copyright_name: CodeDad70
+description: > # this means to ignore newlines until "baseurl:"
+  Watch and laugh as the old dude learns programming
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  CodeDad70
+learn_profile: CodeDad70
+email_username: eric.strickler@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
