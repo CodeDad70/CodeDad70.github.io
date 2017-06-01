@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Why I Decided to Code or: How I Learned to Stop Worrying and Love the Code
-date:   2017-05-25 01:47:38 +0000
+date:   2017-05-24 21:47:39 -0400
 ---
 
 
