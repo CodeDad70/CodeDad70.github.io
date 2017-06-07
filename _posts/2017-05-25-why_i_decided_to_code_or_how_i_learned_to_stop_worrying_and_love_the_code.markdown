@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why I Decided to Code or: How I Learned to Stop Worrying and Love the Code
+title:  "Why I Decided to Code or: How I Learned to Stop Worrying and Love the Code"
 date:   2017-05-24 21:47:39 -0400
 ---
 
@@ -13,7 +13,7 @@ I recently got laid off my job as a machinist. Between 3d printing, exporting of
 
 I felt like I needed to pivot again.  After a lot of thought and research I decided to quit being afraid and embrace the code. 
 
-I am more than a bit nervous. It still feels daunting. I hit some of these labs and a voice in my head starts going "you're screwed dude, you are in over your head !"  But I just keep plugging away at it and chipping away at it. 
+I am more than a bit nervous. It still feels daunting. I hit some of these labs and a voice in my head starts going "you're screwed dude, you are in over your head ! Old dog new tricks blah blah"  But I just keep plugging away at it and chipping away at it. 
 I know it will be hard - but that's okay, hard work doesn't scare me. I can feel myself learning and it feels good. 
 
 I will learn to stop worrying and love the code !
