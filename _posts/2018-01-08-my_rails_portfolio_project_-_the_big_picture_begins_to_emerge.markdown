@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Rails Portfolio Project - the big picture begins to emerge.. "
-date:       2018-01-08 17:09:53 +0000
+title:      "My Rails Portfolio Project - the big picture begins to emerge..."
+date:       2018-01-08 12:09:54 -0500
 permalink:  my_rails_portfolio_project_-_the_big_picture_begins_to_emerge
 ---
 
