@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Down the Rabbit Hole !"
-date:       2017-11-13 19:34:37 +0000
+date:       2017-11-13 14:34:38 -0500
 permalink:  down_the_rabbit_hole
 ---
 
@@ -9,7 +9,7 @@ permalink:  down_the_rabbit_hole
 Well Sinatra kicked my butt... 
 It kicked and kicked and kicked my butt. 
 
-A quick rewind is in order. I had worked my way through most of the Sinatra section and was approaching the Fwitter lab. I felt like I still didn't have a true grasp on a few of the key concepts. I was confused by routes and helper methods. I decided to step back for a couple days and review the section before moving on...
+A quick rewind is in order. I had worked my way through most of the Sinatra section and was approaching the Fwitter lab (basically building a twitter clone with Sinatra). I felt like I still didn't have a true grasp on a few of the key concepts. I was confused by routes and helper methods. I decided to step back for a couple days and review the section before moving on...
 Then we got word that my wife got a job offer on the other side of the country. This moved quick (like in days) we were suddenly trying to sell our house, pack up everything we owned and keep our two young kids from flipping out through it all. Throw in a destination wedding and a trip to our new hometown to house hunt and it suddenly became a very busy, spicy month. 
 Fast forward 3 weeks and we got it all done - packed it up, drove it all across country. 
 We settled in - I looked at my computer and felt like puking. Code ? What's code ? 
