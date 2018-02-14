@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: eric.strickler@gmail.com
 copyright_name: CodeDad70
 description: > # this means to ignore newlines until "baseurl:"
-  Watch and laugh as the old dude learns programming
+  My thoughts on the Long and Winding Road... to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CodeDad70
