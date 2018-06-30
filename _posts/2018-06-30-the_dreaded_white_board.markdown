@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "The Dreaded White Board"
-date:       2018-06-30 18:46:30 +0000
+date:       2018-06-30 14:46:30 -0400
 permalink:  the_dreaded_white_board
 ---
 
 
-This week I had my first white board interview. I've heard about it, stressed about it and dreaded the in-person tech  interview for a while now. It turned out to not be too bad ! I learned a few things and gained some tips for preparing I thought I would share...
+This week I had my first white board interview. I've heard about, stressed about and dreaded the in-person tech  interview for a while now. It turned out to not be too bad ! I learned a few things and gained some tips for preparing I thought I would share...
 
 Learn some algorithms :
 I made a list of some of the more common interview algorithms and practiced them. Over and over and over (and over) again. The key here is not just memorization, but to learn and understand why the solutions work. This is important because it's very likely the algorithm you will be given might be similar to the one you worked on, but it will probably be different in key ways. Understanding the concepts behind the solutions will help you adapt and be able to solve the algorithm you are given.  Just a few I would recommend are the Fibonnacci sequence, check a word to see if it's a palindrome, given a number return the prime factors, and given a word that is camelCased break it up. 
