@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Looking at GraphQL "
-date:       2018-08-31 20:57:37 +0000
+date:       2018-08-31 16:57:38 -0400
 permalink:  looking_at_graphql
 ---
 
