@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Conditionals with React-Spring"
-date:       2018-09-29 18:51:23 +0000
+date:       2018-09-29 14:51:23 -0400
 permalink:  conditionals_with_react-spring
 ---
 
@@ -16,12 +16,15 @@ Say you are creating a parallax effect to bring slides in and out. Using React-S
 <Page offset={0} background = “slide-one” frameOne = “frame-one” imagelink={slideOneA} caption=”Here is the first slide” first-line=”Slide desription goes here” onClickForward={() => this.scroll(1)} />
 <Page offset={1} background = “slide-two” frameTwp = “frame-two” frameThree = "frame-three" imagelinkA={slideTwoA} imagelineB = {slideTwoB} caption=”Here is the second slide” first-line=”Slide desription goes here” onClickForward={() => this.scroll(1)} onClickBack={() => this.scroll(0)} />
 </Parallax>
+
 Notice that there are two slide for this example. The first slide does not have an onClickBack even listener as it is…well.. the first slide. I’ve also put multiple images in the second slide.
 
 We basically create a Page function that brings in the params from our exported slide (note the offset number is used to keep track of which slide we are referring to) :
 
 const Page = ({ offset, caption, first,  background, imagelink, imagelinkA, imagelinkBframeOne, frameTwoonClickForward, onClickBack }) => (
   <React.Fragment>
+
+
 Now we can set our layers to behave according to the properties we pass to it:
 
 <Parallax.Layer offset={offset} speed={0.2} >
@@ -38,6 +41,8 @@ The background will change according to the .css style we assign to it using cla
     <Icon path={mdiArrowRightThick}  className = "arrow-forward" 
     size={1.5} color='black' onClick={onClickForward}/>
   }
+	
+	
 Here’s where our conditional comes in. In this snippet we are saying “if the offset number is not 0 (the first slide) dispaly a back arrow . Also if the offset number is not 6 (last slide) show a forward arrow. “
 
 It’s pretty much that simple. You can extend this as I did with frame numbers with something like this:
